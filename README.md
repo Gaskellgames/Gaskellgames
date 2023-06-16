@@ -13,6 +13,7 @@
 </div>
 
 <!-- View Counter -->
-<div>
+<div id="ViewCounter" align="center">
+  <hr>
   <img src="https://komarev.com/ghpvc/?username=Gaskellgames&style=flat-square&color=096716" alt=""/>
 </div>
