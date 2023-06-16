@@ -3,7 +3,6 @@
   <h1>Gaskellgames</h1>
   <h3>Graphic Designer, 3D Artist and Games Programmer</h3>
   <hr>
-  <br>
 </div>
 
 <!--- Portfolio Information --->
@@ -14,7 +13,7 @@
   <h4><a href="https://gaskellgames.itch.io/">Itch.io</a></h4>
   <h4><a href="https://mod.io/u/gaskellgames/info">Mod.io</a></h4>
   <h4><a href="https://gaskellgames.artstation.com/">Artstation</a></h4>
-  <br>
+  <hr>
 </div>
 
 <!-- View Counter -->
