@@ -1,7 +1,7 @@
 <!-- Header -->
 <div id="WelcomeHeader" align="center">
   <h1>Gaskellgames</h1>
-  <h3>Graphic Designer, 3D Artist and Games Programmer</h3>
+  <h3><i>"Graphic Designer, 3D Artist and Games Programmer"</i></h3>
   <hr>
 </div>
 
